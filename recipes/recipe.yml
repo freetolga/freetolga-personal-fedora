@@ -42,6 +42,8 @@ modules:
         - rofi-wayland
         - wmenu
         - fastfetch
+        - greybird-dark-theme
+        - papirus-icon-theme
 
   - type: default-flatpaks
     configurations:
